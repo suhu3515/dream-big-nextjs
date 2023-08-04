@@ -103,9 +103,11 @@ const About = () => {
                                         <button className=' buttonbg px-12 py-2 uppercase text-white'>
                                             Join With Us
                                         </button>
-                                        <button className='border border-white px-12 py-2 uppercase text-white ml-3'>
+                                        <a href='/contact'>
+                                        <button className='border bg-black border-white px-12 py-2 uppercase text-white ml-3'>
                                             Contact Us
                                         </button>
+                                        </a>
                                     </div>
                                 </div>
                                 <div className='col-lg-6'>
